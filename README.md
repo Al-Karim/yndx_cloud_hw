@@ -1,8 +1,7 @@
 # Структура
  
 ```
-├── notebooks/
-│   └── mart_city_top_products.py
+├── mart_city_top_products_2MR23YG1K.zpln
 ├── screenshots/
 │   ├── 2026-04-25_13_19_10.jpg
 │   ├── 2026-04-25_13_19_26.jpg
